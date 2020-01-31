@@ -1,0 +1,6 @@
+variable "cron" {
+
+}
+variable "region" {
+    
+}

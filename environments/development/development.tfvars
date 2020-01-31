@@ -1,0 +1,5 @@
+environment  = "development"
+region       = "eu-west-3"
+ami_id       = "ami-0bb607148d8cf36fb"
+cron         = "0 10 * * *"
+cronend      = "0 15 * * *"

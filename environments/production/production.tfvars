@@ -1,0 +1,5 @@
+environment  = "production"
+region       = "ap-south-1"
+ami_id       = "ami-0123b531fc646552f"
+cron         = "30 2 * * *"
+cronend      = "30 22 * * *"
